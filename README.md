@@ -15,3 +15,7 @@ Every claim in a project README is checked against that project's `results.json`
 it ships.
 
 No neural networks, no GPU. NumPy and SciPy.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
